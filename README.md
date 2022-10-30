@@ -1,4 +1,4 @@
-# closegan
+# Closegan
 
 Code to the paper: https://drive.google.com/file/d/1xbtyMn73fR8bx6IMe0sXpVuPo88Gy5PS/view
 
