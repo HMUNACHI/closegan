@@ -15,8 +15,8 @@ We, therefore, introduce a generative adversarial network architecture for creat
 We show that our architecture generates very original jokes with high syntactic diversity, semantic accuracy,
 and hilarity relative to human-curated jokes and jokes generated with existing techniques.
 
-Author: Henry Ndubuaku
-Supervisor: Matthew Purver
+Author: Henry Ndubuaku (ndubuakuhenry@gmail.com, ec20001@qmul.ac.uk))
+Supervisor: Matthew Purver (matt.purver@qmul.ac.uk)
 
 Topics: Generative Adversarial Networks, Transformers, Variational Seq2Seq, LSTMs, Humour Theory, Wassertein Loss, Kullback-Leibenher Annealing, NLP, NLG
 
