@@ -20,7 +20,7 @@ Supervisor: Matthew Purver (matt.purver@qmul.ac.uk)
 
 Topics: Generative Adversarial Networks, Transformers, Variational Seq2Seq, LSTMs, Humour Theory, Wassertein Loss, Kullback-Leibenher Annealing, NLP, NLG
 
-Tools: Python, TensorFlow, Keras, PyTorch, Numpy
+Tools: Python, TensorFlow, Keras, Colab Pro, PyTorch, Numpy
 
 Dataset: rJoke Dataset
 
