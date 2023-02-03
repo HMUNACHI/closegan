@@ -1,6 +1,6 @@
 # Closegan
 
-Code to the paper: https://drive.google.com/file/d/1xbtyMn73fR8bx6IMe0sXpVuPo88Gy5PS/view
+Paper: https://drive.google.com/file/d/1OnKuNsiiasiN6TcL6bMvldQajZF04rj4/view?usp=sharing
 
 ABSTRACT
 Computational humour is a difficult and overlooked challenge in natural language processing, 
