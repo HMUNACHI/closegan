@@ -15,15 +15,5 @@ We, therefore, introduce a generative adversarial network architecture for creat
 We show that our architecture generates very original jokes with high syntactic diversity, semantic accuracy,
 and hilarity relative to human-curated jokes and jokes generated with existing techniques.
 
-Author: Henry Ndubuaku (ndubuakuhenry@gmail.com, ec20001@qmul.ac.uk))
+Author: Henry Ndubuaku (ndubuakuhenry@gmail.com, ec20001@qmul.ac.uk))\
 Supervisor: Matthew Purver (matt.purver@qmul.ac.uk)
-
-Topics: Generative Adversarial Networks, Transformers, Variational Seq2Seq, LSTMs, Humour Theory, Wassertein Loss, Kullback-Leibenher Annealing, NLP, NLG
-
-Tools: Python, TensorFlow, Keras, Colab Pro, PyTorch, Numpy
-
-Dataset: rJoke Dataset
-
-Traning: Google Colab Pro for experimentation and GCP Cloud Run Job for full training, you can set up on GCP's Vertex AI or Compute Enigne.
-
-Uses: Humour generation, Lyric generation, Textual dataset generation.
