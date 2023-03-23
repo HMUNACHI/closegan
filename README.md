@@ -1,4 +1,4 @@
-# CloseGAN: Conditional Latent-Optimised Sequence Generative Adversarial Network.
+# CloseGAN: Conditional Latent-Optimised Sequence GAN For Brainwave-To-Text Decoding.
 
 ![Alt text](/images/halo.png "Plea Diagram")
 
