@@ -1,10 +1,5 @@
 # CloseGAN: Conditional Latent-Optimised Sequence GAN For Creative Text Generaton.
-# An architecture that improves on my previous work below.
-
-# AUTHORS
-Henry Ndubuaku\
-ndubuakuhenry@gmail.com\
-[Linkedin](https://www.linkedin.com/in/henry-ndubuaku-7b6350b8/)
+An architecture that improves on my previous work below.
 
 ![Alt text](/images/1.png "Plea Diagram")
 ![Alt text](/images/2.png "Plea Diagram")
