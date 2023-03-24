@@ -1,25 +1,17 @@
-# CloseGAN: Conditional Latent-Optimised Sequence GAN For Brainwave-To-Text Decoding.
-
-![Alt text](/images/halo.png "Plea Diagram")
+# CloseGAN: Conditional Latent-Optimised Sequence GAN For Creative Text Generaton.
+# An architecture that improves on my previous work below.
 
 # AUTHORS
 Henry Ndubuaku\
-ndubuakuhenry@gmail.com
+ndubuakuhenry@gmail.com\
+[Linkedin](https://www.linkedin.com/in/henry-ndubuaku-7b6350b8/)
 
-# ABSTRACT
-
-
-# BACKGROUND
-
-
-# APPROACH
-
-
-# RESUTS
-
-
-# USAGE
-
-
-# REFERENCES
-1. Wu X, Zhang T, Zang L, et al. “Mask and infill”: Applying masked language model to sentiment transfer. ArXiv: 1908.08039. https://arxiv.org/abs/1908.08039
+![Alt text](/images/1.png "Plea Diagram")
+![Alt text](/images/2.png "Plea Diagram")
+![Alt text](/images/3.png "Plea Diagram")
+![Alt text](/images/4.png "Plea Diagram")
+![Alt text](/images/5.png "Plea Diagram")
+![Alt text](/images/6.png "Plea Diagram")
+![Alt text](/images/7.png "Plea Diagram")
+![Alt text](/images/8.png "Plea Diagram")
+![Alt text](/images/9.png "Plea Diagram")
