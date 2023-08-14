@@ -8,4 +8,4 @@ Computational models that mirror the brain's behaviour can help us understand hu
 Henry Ndubuaku\
 ndubuakuhenry@gmail.com\
 [Linkedin](https://www.linkedin.com/in/henry-ndubuaku-7b6350b8/)\
-[Paper](https://www.biorxiv.org/content/10.1101/2023.07.30.551149v1](https://www.researchgate.net/publication/373111729_Improving_Creativity_In_Humour_Generation_With_Conditional_Stochastic_Latent-Sampling_Encoders)
+[Paper](https://www.researchgate.net/publication/373111729_Improving_Creativity_In_Humour_Generation_With_Conditional_Stochastic_Latent-Sampling_Encoders)
